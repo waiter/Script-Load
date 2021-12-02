@@ -1,6 +1,6 @@
 ## script标签加载与执行时机示例
 
-请配合这篇文章查看: [script标签加载与执行时机小结]()
+请配合这篇文章查看: [script标签加载与执行时机小结](https://mp.weixin.qq.com/s/cH4VKhtCXeKjUkDkR_HwBw)
 
 ### 如果使用
 
